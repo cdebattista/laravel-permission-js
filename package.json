@@ -1,0 +1,23 @@
+{
+  "name": "laravel-permission",
+  "version": "1.0.1",
+  "description": "Groups & Permissions for Laravel 8",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cdebattista/laravel-permission-js"
+  },
+  "keywords": [
+    "laravel",
+    "inertia",
+    "jetstream",
+    "group",
+    "groups",
+    "permission",
+    "permissions",
+    "roles",
+    "security"
+  ],
+  "author": "De Battista Clint",
+  "license": "MIT"
+}
