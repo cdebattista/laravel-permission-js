@@ -1,6 +1,6 @@
 {
   "name": "laravel-permission",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Groups & Permissions for Laravel 8",
   "main": "index.js",
   "repository": {
